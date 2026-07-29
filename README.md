@@ -34,17 +34,19 @@ machine-learning/
 ├── 02-logistic-regression/
 ├── 03-decision-tree/
 ├── 04-support-vector-machine/
-├── 05-random-forest/
-├── 06-k-mean-cluster/
-├── 07-naive-bayes/
-├── 08-k-nearest-neighbors/
-├── 09-
-├── 10-
-├── datasets/
-├── notebooks/
-├── projects/
+├── 05-k-nearest-neighbors/
+├── 06-k-mean-clustering/
+├── 07-random-forest/
+├── 08-naive-bayes/
+├── 09-bagging/
+├── 10-boosting/
+├── 11-model-saving/
+├── 12-model-evaluation-metrics/
+├── 13-k-fold-cross-validation/
+├── 14-grid-search-cross-validation/
+├── 15-regularization/
 ├── README.md
-└── .LICENSE
+└── LICENSE
 ```
 
 ---
